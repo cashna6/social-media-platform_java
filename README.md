@@ -7,4 +7,4 @@ Postman to test APIs.
 
 Can signup, login, retrieve user details and post; create, fetch, edit and delete posts and comments.
 
-# java; oop; SpringBoot; API; H2DB; Postman; IntelliJ
+java; oop; SpringBoot; API; H2DB; Postman; IntelliJ
